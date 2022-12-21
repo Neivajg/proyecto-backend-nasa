@@ -1,4 +1,4 @@
-const dbLanding = require('./router/dblanding');
+const dbLanding = require('./router/dbLanding');
 const dbNeas = require('./router/dbNeas');
 const dbUser = require('./router/dbUser');
 const express = require('express');
